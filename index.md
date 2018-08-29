@@ -1,4 +1,4 @@
-[Hi](About)
+[Hi](about)
 
 ## Welcome to GitHub Pages
 
